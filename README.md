@@ -3,7 +3,7 @@
  
  ## Screenshots
 
-   ![Okv-photogram](https://user-images.githubusercontent.com/106578262/220271137-cf9653ab-0b31-43e3-8b75-47d4227258db.png)
+   ![](https://user-images.githubusercontent.com/106578262/220271137-cf9653ab-0b31-43e3-8b75-47d4227258db.png)
  
 
 
@@ -35,15 +35,13 @@
  - React icons
  
 ### Deployement 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/0ac304c4-a7c5-4aeb-af7e-0115f09830e1/deploy-status)](https://okv-photogram.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/0ac304c4-a7c5-4aeb-af7e-0115f09830e1/deploy-status)]()
 
-## Feedbacks
-### Don't forget to :star: the repo
 
 
 
 ## Getting Started with Create React App
- - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ - This project was bootstrapped with [Create React App]
  - clone down this repositery. You will need to `node.js` and `git` installed globally on your machine.
 
 
